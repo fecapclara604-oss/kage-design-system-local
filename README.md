@@ -2,6 +2,10 @@
 
 Esta pasta contém uma versão editável da cópia local, remodelada como um comercial de canecas de chá fofas. A estética preserva o clima cinematográfico, escuro e japonês do site de referência, mas agora apresenta uma coleção de produtos, preços ilustrativos, benefícios, CTAs e interação de adicionar ao ritual.
 
+A página também inclui um catálogo ampliado com oito modelos e filtros por estação. A coleção especial “Gatinhos do Ano” traz versões para Primavera, Verão, Outono e Inverno.
+
+A entrada da loja começa em uma tela fixa inspirada em um templo, com cores mais intensas, brilho vermelho e dourado e um selo central clicável para entrar na loja.
+
 ## Arquivos principais
 
 - `design-system.html` — página comercial principal.
@@ -9,6 +13,7 @@ Esta pasta contém uma versão editável da cópia local, remodelada como um com
 - `assets/mug-sora.png` — imagem da caneca Sora.
 - `assets/tea-ritual.png` — imagem da seção Ritual.
 - `assets/overview/secret-pathways-assets/fonts.css` — fontes locais reaproveitadas da cópia original.
+- `assets/cat-spring.png`, `cat-summer.png`, `cat-autumn.png` e `cat-winter.png` — coleção sazonal de gatinhos.
 
 ## Como abrir
 
